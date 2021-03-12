@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-namespace SlimlineInstallationCalculator
+namespace TraditionalInstallationCalculator
 {
     public partial class frmChkUpdate : Form
     {

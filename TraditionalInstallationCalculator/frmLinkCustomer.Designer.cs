@@ -1,4 +1,4 @@
-﻿namespace SlimlineInstallationCalculator
+﻿namespace TraditionalInstallationCalculator
 {
     partial class frmLinkCustomer
     {

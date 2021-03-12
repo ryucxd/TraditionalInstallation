@@ -13,7 +13,7 @@ using Microsoft.Office;
 using Microsoft.Office.Interop.Word;
 using Microsoft.Office.Interop.Outlook;
 
-namespace SlimlineInstallationCalculator
+namespace TraditionalInstallationCalculator
 {
     public partial class frmManageQuote : Form
     {

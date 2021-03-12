@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SlimlineInstallationCalculator.Properties
+namespace TraditionalInstallationCalculator.Properties
 {
 
 
